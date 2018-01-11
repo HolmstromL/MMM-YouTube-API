@@ -23,6 +23,6 @@ modules: [
 |`videoID`|The YouTube video ID.<br><br>**Example:**<br>&nbsp;&nbsp;Link: https://www.youtube.com/watch?v=Sagg08DrO5U<br>&nbsp;&nbsp;Id: `Sagg08DrO5U`<br><br>**Default value:** `Sagg08DrO5U`<br>|
 |`playbackRate`|The rate at which the video plays.<br><br>**Valid values:** `0.25`, `0.5`, `1`, `1.5`, `2`<br><br>**Default value:** `1`<br>|
 |`volume`|The playback volume of the selected video.<br><br>**Valid values:** `0 - 100`<br><br>**Default value:** `100`<br>|
-|`loop`|Should the video loop?<br><br>**Valid values:** `1 or 0 (true/false)`<br><br>**Default value:** `1`<br>|
+|`loop`|Should the video loop?<br><br>**Valid values:** `true or false`<br><br>**Default value:** `true`<br>|
 
 <br><br>Made in collaboration with my dear friend **Alfred**
