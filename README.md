@@ -1,4 +1,4 @@
-# MMM-youtube-api
+# MMM-YouTube-API
 This a module for the [MagicMirror](https://github.com/MichMich/MagicMirror/tree/develop). It helps you easily implement YouTube videos to be played in your MagicMirror by using YouTube's own iFrame API.
 
 ## Using the module
@@ -7,7 +7,7 @@ To use this module, add it to the modules array in the `config/config.js` file:
 ````javascript
 modules: [
     {
-		module: 'MMM-youtube-api',
+		module: 'MMM-YouTube-API',
 		position: 'top_center',
                 config: {
                     //Config here
